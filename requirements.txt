@@ -1,0 +1,8 @@
+streamlit==1.35.0
+pandas==2.1.4
+numpy==1.26.3
+requests==2.31.0
+plotly==5.18.0
+ta==0.10.2
+anthropic==0.21.3
+python-dotenv==1.0.0
